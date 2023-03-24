@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MothishKanna10/My-First-React-Project/static/css/main.b236ad43.css",
+    "main.js": "/MothishKanna10/My-First-React-Project/static/js/main.ed61e2bf.js",
+    "static/js/787.1aee0d94.chunk.js": "/MothishKanna10/My-First-React-Project/static/js/787.1aee0d94.chunk.js",
+    "index.html": "/MothishKanna10/My-First-React-Project/index.html",
+    "main.b236ad43.css.map": "/MothishKanna10/My-First-React-Project/static/css/main.b236ad43.css.map",
+    "main.ed61e2bf.js.map": "/MothishKanna10/My-First-React-Project/static/js/main.ed61e2bf.js.map",
+    "787.1aee0d94.chunk.js.map": "/MothishKanna10/My-First-React-Project/static/js/787.1aee0d94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b236ad43.css",
+    "static/js/main.ed61e2bf.js"
+  ]
+}
